@@ -12,7 +12,7 @@ const Meta = ({ title, description, keywords }) => {
 }
 
 Meta.defaultProps = {
-  title: 'Welcome To Grocery Store',
+  title: 'Welcome To GoodForGoods',
   description: 'We sell the best products for cheap',
   keywords: 'Grocery, Home needs',
 }
