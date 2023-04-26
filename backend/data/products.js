@@ -1,0 +1,197 @@
+const products = [
+  {
+    name: 'Phone',
+    image: '/images/1phone.jfif',
+    description:
+      'Best Phone for User',
+      brand: 'Mi',
+      category: 'Phone',
+    price: 35000,
+    countInStock: 40,
+    rating: 0,
+    numReviews: 0,
+  }, 
+  {
+    name: ' Zebronics HeadPhone',
+    image: '/images/headphone.jpg',
+    description:
+      'Best Headphone',
+      brand: 'Zebronics',
+      category: 'HeadPhone',
+    price: 4500,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: ' Mi-Laptop ,8 GB RAM ,256 SSD,Clear Display',
+    image: '/images/lapp.jpeg',
+    description:
+      'Best Laptop ',
+      brand: 'Laptop',
+      category: 'Laptop',
+    price: 35000,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Phone',
+    image: '/images/4phone.jfif',
+    description:
+      'Best Phone for User',
+      brand: 'Mi',
+      category: 'Phone',
+    price: 35000,
+    countInStock: 40,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Laptop',
+    image: '/images/1.jpg',
+    description:
+      'Best Cooking Oil',
+      brand: 'FREEDOM',
+      category: 'Oil',
+    price: 65000,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Television - Mi',
+    image: '/images/tv.jpg',
+    description:
+      'Best television',
+      brand: 'Mi',
+      category: 'TV',
+    price: 30000,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Shirt For Men',
+    image: '/images/shirt.jpg',
+    description:
+      'Best Shirt For Men',
+      brand: 'Jockey',
+      category: 'Shirt',
+    price: 500,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name:'Puma Shoes',
+    image: '/images/2shoe.jfif',
+    description:
+      'Best Puma Shoes',
+      brand: 'Puma',
+      category: 'Shoes',
+    price: 4000,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 't-Shirt Men',
+    image: '/images/top1.jpg',
+    description:
+      'Best t-Shirt For Men',
+      brand: 'Jockey',
+      category: 't-Shirt',
+    price: 600,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: ' Levis -Jeans For Men',
+    image: '/images/jeans1.jpg',
+    description:
+      'Jeans For Men',
+      brand: 'Levis',
+      category: 'Jeans',
+    price: 500,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Black Dress',
+    image: '/images/dress.jpg',
+    description:
+      'Best Dress For Girls',
+      brand: 'Gucci',
+      category: 'Dress',
+    price: 4500,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Nike Shoes',
+    image: '/images/shoes.jpg',
+    description:
+      'Best shoes',
+    brand: 'Nike',
+    category: 'shoes',
+    price: 2000,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: ' SONY -Earpod',
+    image: '/images/earpod.jpg',
+    description:
+      'Best Earpod',
+      brand: 'SONY',
+      category: 'Earpod',
+    price: 6000,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: ' Zebronics HeadPhone',
+    image: '/images/headphone.jpg',
+    description:
+      'Best Headphone',
+      brand: 'Zebronics',
+      category: 'HeadPhone',
+    price: 4500,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Shirt For Men',
+    image: '/images/shirt.jpg',
+    description:
+      'Best Shirt For Men',
+      brand: 'Jockey',
+      category: 'Shirt',
+    price: 500,
+    countInStock: 30,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Television - Mi',
+    image: '/images/tv.jpg',
+    description:
+      'Best television',
+      brand: 'Mi',
+      category: 'TV',
+    price: 30000,
+    countInStock: 50,
+    rating: 0,
+    numReviews: 0,
+  }
+]
+
+export default products
+
